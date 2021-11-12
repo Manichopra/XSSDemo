@@ -1,0 +1,22 @@
+﻿@model Search
+@{ ViewData["Title"] = "Home Page"; }
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about XSS.</p>
+</div>
+
+
+
+<form asp-action="Index">
+    <div class="form-group">
+        <label asp-for="SearchText">What would you like to search for?</label>
+        <input type="text" class="form-control" asp-for="SearchText" value="">
+    </div>
+    <button type="submit" class="mt-md-1 btn btn-primary">Submit</button>
+</form>
+
+<br />
+<div class="row">
+    <p>Search Results: @Html.Raw(Model.SearchText)</p>
+</div>

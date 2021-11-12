@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "1aemiBsZyIFobHr/mm3TZ6SndPnfWjmVD13N54/3t5XkJ3x7QSe1OphuFrs594xZ+cugzTdE2yO1b0Ivv3rlQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\4981\\source\\repos\\XSSDemo\\XSSDemo\\XSSDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\4981\\.nuget\\packages\\anglesharp\\0.16.1\\anglesharp.0.16.1.nupkg.sha512",
+    "C:\\Users\\4981\\.nuget\\packages\\anglesharp.css\\0.16.1\\anglesharp.css.0.16.1.nupkg.sha512",
+    "C:\\Users\\4981\\.nuget\\packages\\htmlsanitizer\\6.0.453\\htmlsanitizer.6.0.453.nupkg.sha512",
+    "C:\\Users\\4981\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\4981\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\4981\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\4981\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
